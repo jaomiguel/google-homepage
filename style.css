@@ -29,7 +29,7 @@ a{
     text-decoration: none;
     font-size: small;
     color: #222222;
- }    
+}    
 #jota img{
     height: 32px;
     width: 32px;
@@ -121,7 +121,6 @@ main{
     box-shadow: 0 1px 1px rgba(0,0,0,0.1);
     border: 1px solid #c6c6c6;
     color: #222;
-
 }
 #sorte:hover{
     cursor: pointer;
@@ -134,7 +133,6 @@ main{
     align-self: center;
     justify-self: center;
     font-size: small;
-
 }
 #english{
     color: darkblue;
@@ -211,27 +209,6 @@ footer{
     font-size: 14px;
     color: #5f6368;
 }
-#publicidade:hover{
-    text-decoration:underline;
-}
-#negocios:hover{    
-    text-decoration:underline;
-}
-#sobre:hover{
-    text-decoration:underline;
-}
-#como:hover{
-    text-decoration:underline;
-}
-#privacidade:hover{
-    text-decoration:underline;
-}
-#termos:hover{
-    text-decoration:underline;
-}
-#configuracoes:hover{
-    text-decoration:underline;
-}
-#usar:hover{
+#publicidade:hover, #negocios:hover, #sobre:hover, #como:hover, #privacidade:hover, #termos:hover, #configuracoes:hover, #usar:hover{
     text-decoration:underline;
 }
